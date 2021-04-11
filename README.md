@@ -26,6 +26,9 @@ Critères d’acceptation :
 Cas nominal
 
 L’utilisateur accède à la page d’accueil www.google.com
+
 Il clique dans le champ rechercher
+
 Il tape le ou les mots clés (exemple : publicis sapient)
+
 Il clique sur le bouton rechercher
